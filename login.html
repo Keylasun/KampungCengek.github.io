@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">  
+    <title>Login</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-cover bg-center h-screen bg-black" style="background-image: linear-gradient(to bottom, black, transparent), url('https://github.com/saripudin14/img/blob/main/1.jpeg?raw=true');">
+    <div class="grid place-items-center h-screen">
+        <div class="w-96 bg-white/10 border border-white/30 shadow-2xl rounded-2xl p-8 text-white">
+            <h2 class="text-center text-2xl font-bold mb-8">Login</h2>
+            <a>
+                <div class="relative mb-6">
+                    <input 
+                        type="text" 
+                        placeholder="Username" 
+                        class="w-full bg-transparent border border-gray-300 rounded-full px-6 py-3 text-white focus:outline-none focus:ring-2 focus:ring-white/50"
+                    >
+                    <i class="fa fa-user absolute top-1/2 right-6 transform -translate-y-1/2 text-white"></i>
+                </div>
+                <div class="relative mb-6">
+                    <input 
+                        type="password" 
+                        placeholder="Password" 
+                        class="w-full bg-transparent border border-gray-300 rounded-full px-6 py-3 text-white focus:outline-none focus:ring-2 focus:ring-white/50"
+                    >
+                    <i class="fa fa-lock absolute top-1/2 right-6 transform -translate-y-1/2 text-white"></i>
+                </div>
+                <div class="flex justify-between items-center mb-6">
+                    <label class="flex items-center text-white text-sm">
+                        <input type="checkbox" class="w-4 h-4 mr-2 rounded">
+                        Remember Me
+                    </label>
+                    <a href="#" class="text-white text-sm">Forgot Password?</a>
+                </div>
+                <a href="index.html">
+                    <button type="submit" class="w-full bg-yellow-400 text-black font-bold py-3 rounded-full hover:bg-white transition">
+                        Submit
+                    </button>
+                </a>
+            </form>
+            <p class="text-center text-sm mt-6">
+                Don't have an account? 
+                <a href="register.html" class="text-blue-400 hover:underline">Register</a>
+            </p>
+        </div>
+    </div>
+</body>
+</html>
