@@ -2,7 +2,7 @@
 
 
 ## 🚀 Deskripsi:
-- Proyek ini adalah sebuah tampilan web sederhana yang dibuat menggunakan HTML dan Bootstrap\Tailwindcss lalu di-host menggunakan GitHub Pages. Tujuan utama dari proyek ini adalah untuk memahami dan mempraktikkan proses pengembangan serta deployment website statis secara mudah dan gratis melalui GitHub.
+- Proyek ini adalah sebuah tampilan web sederhana yang dibuat menggunakan HTML, CSS, dan Bootstrap\Tailwindcss lalu di-host menggunakan GitHub Pages. Tujuan utama dari proyek ini adalah untuk memahami dan mempraktikkan proses pengembangan serta deployment website statis secara mudah dan gratis melalui GitHub.
 
 
 ## 🛠 Teknologi yang Digunakan:
