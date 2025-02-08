@@ -12,4 +12,4 @@
 
 
 ## 📌 Cara Mengakses:
-- Website ini dapat diakses melalui tautan berikut: 🔗 
+- Website ini dapat diakses melalui tautan berikut: 🔗 https://keylasun.github.io/KampungCengek.github.io/ 
